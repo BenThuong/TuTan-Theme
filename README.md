@@ -1,2 +1,2 @@
-# TuTan-Theme
-Theme for Tu Tan Buddhist Monastery.
+# tutantheme
+Theme for Tu Tan Buddhist Community Monastery Website. Powered by Wordpress.
